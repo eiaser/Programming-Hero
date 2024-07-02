@@ -1,0 +1,10 @@
+Ctrl + J =Visual studio terminal hide and show
+html tag word + tab = Visual studio to make tag
+CTRL + B = Visual studio to hide left sidebar
+! + Enter = html 5 code
+
+
+
+
+inline tag = same line= em, strong, small, b etc
+block tag = h1, p, div etc
