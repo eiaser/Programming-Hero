@@ -1,7 +1,9 @@
 Ctrl + J =Visual studio terminal hide and show
 html tag word + tab = Visual studio to make tag
 CTRL + B = Visual studio to hide left sidebar
-! + Enter = html 5 code
+
+to see live website: userName.github.io/repository name
+https://eiaser.github.io/Programming-Hero
 
 
 
